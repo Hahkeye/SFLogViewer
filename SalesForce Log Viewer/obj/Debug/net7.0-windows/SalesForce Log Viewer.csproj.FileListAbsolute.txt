@@ -19,3 +19,24 @@ C:\Users\hunter.adcock\source\repos\SalesForce Log Viewer\SalesForce Log Viewer\
 C:\Users\hunter.adcock\source\repos\SalesForce Log Viewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.pdb
 C:\Users\hunter.adcock\source\repos\SalesForce Log Viewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.genruntimeconfig.cache
 C:\Users\hunter.adcock\source\repos\SalesForce Log Viewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\ref\SalesForce Log Viewer.dll
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\bin\Debug\net7.0-windows\SalesForce Log Viewer.exe
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\bin\Debug\net7.0-windows\SalesForce Log Viewer.deps.json
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\bin\Debug\net7.0-windows\SalesForce Log Viewer.runtimeconfig.json
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\bin\Debug\net7.0-windows\SalesForce Log Viewer.dll
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\bin\Debug\net7.0-windows\SalesForce Log Viewer.pdb
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.csproj.AssemblyReference.cache
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer_MarkupCompile.cache
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer_MarkupCompile.lref
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.g.resources
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.AssemblyInfoInputs.cache
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.AssemblyInfo.cs
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.csproj.CoreCompileInputs.cache
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.dll
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\refint\SalesForce Log Viewer.dll
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.pdb
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\SalesForce Log Viewer.genruntimeconfig.cache
+C:\Users\reali\Source\Repos\SFLogViewer\SalesForce Log Viewer\obj\Debug\net7.0-windows\ref\SalesForce Log Viewer.dll

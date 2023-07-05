@@ -7,15 +7,17 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="321,239,0,0" VerticalAlignment="Top" Height="25" Width="125"/>
-        <Label Content="Username:&#xD;&#xA;" HorizontalAlignment="Left" Margin="251,170,0,0" VerticalAlignment="Top" Width="68"/>
-        <Label Content="passaword&#xD;&#xA;" HorizontalAlignment="Left" Margin="251,0,0,0" VerticalAlignment="Center" Width="84"/>
-        <Label Content="org&#xD;&#xA;" HorizontalAlignment="Left" Margin="251,123,0,0" VerticalAlignment="Top" Width="62"/>
-        <ComboBox HorizontalAlignment="Left" Margin="326,128,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged" IsDropDownOpen="True">
+        <Button x:Name="loginButton" Content="Login" HorizontalAlignment="Left" Margin="326,355,0,0" VerticalAlignment="Top" Height="25" Width="125" Click="loginButton_Click"/>
+        <Label Content="Username:" HorizontalAlignment="Left" Margin="245,195,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label Content="Password:" HorizontalAlignment="Left" Margin="248,276,0,0" VerticalAlignment="Top" Width="68" Height="23"/>
+        <Label Content="Org:" HorizontalAlignment="Left" Margin="251,106,0,0" VerticalAlignment="Top" Width="62"/>
+        <ComboBox x:Name="orgInput" HorizontalAlignment="Left" Margin="326,111,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged" IsDropDownOpen="True">
             <Button Content="Produciton" IsDefault="True"/>
             <Button Content="PRJT"/>
             <Button Content="UAT"/>
         </ComboBox>
+        <PasswordBox x:Name="passwordInput" HorizontalAlignment="Left" Margin="326,281,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="usernameInput" HorizontalAlignment="Left" Margin="326,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>

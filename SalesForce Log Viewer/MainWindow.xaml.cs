@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,6 +16,7 @@ using System.Windows.Shapes;
 
 namespace SalesForce_Log_Viewer
 {
+   
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
@@ -25,14 +27,12 @@ namespace SalesForce_Log_Viewer
             InitializeComponent();
         }
 
-        private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void loginButton_Click(object sender, RoutedEventArgs e)
         {
-
-        }
-
-        private void TextBox_TextChanged()
-        {
-
+            String password = passwordInput.Password;
+            String username = usernameInput.Text;
+            String org = orgInput.Text;
+            Debug.Print(password + username + org);
         }
     }
 }

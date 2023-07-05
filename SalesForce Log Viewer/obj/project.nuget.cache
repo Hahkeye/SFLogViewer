@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "irV1Mo8xmPWAJg0okP850caO227phGV3D+qfsvcGZ5Mv8BOUmj7jnT555B+bAKwtgTzoCnIPx/n59AnBwKB5RA==",
+  "dgSpecHash": "zRVlSXIZLIMHcMN4kvr1g3Dl59vTccJNT+Qk5JHLNxtMKOh+oA39Sl+cYVRdjSFosO393OV25eIQtTvh8IPDjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hunter.adcock\\source\\repos\\SalesForce Log Viewer\\SalesForce Log Viewer\\SalesForce Log Viewer.csproj",
+  "projectFilePath": "C:\\Users\\reali\\source\\repos\\SFLogViewer\\SalesForce Log Viewer\\SalesForce Log Viewer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

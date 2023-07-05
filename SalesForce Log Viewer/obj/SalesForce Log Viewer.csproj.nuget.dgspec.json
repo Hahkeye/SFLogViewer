@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hunter.adcock\\source\\repos\\SalesForce Log Viewer\\SalesForce Log Viewer\\SalesForce Log Viewer.csproj": {}
+    "C:\\Users\\reali\\source\\repos\\SFLogViewer\\SalesForce Log Viewer\\SalesForce Log Viewer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hunter.adcock\\source\\repos\\SalesForce Log Viewer\\SalesForce Log Viewer\\SalesForce Log Viewer.csproj": {
+    "C:\\Users\\reali\\source\\repos\\SFLogViewer\\SalesForce Log Viewer\\SalesForce Log Viewer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hunter.adcock\\source\\repos\\SalesForce Log Viewer\\SalesForce Log Viewer\\SalesForce Log Viewer.csproj",
+        "projectUniqueName": "C:\\Users\\reali\\source\\repos\\SFLogViewer\\SalesForce Log Viewer\\SalesForce Log Viewer.csproj",
         "projectName": "SalesForce Log Viewer",
-        "projectPath": "C:\\Users\\hunter.adcock\\source\\repos\\SalesForce Log Viewer\\SalesForce Log Viewer\\SalesForce Log Viewer.csproj",
-        "packagesPath": "C:\\Users\\hunter.adcock\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hunter.adcock\\source\\repos\\SalesForce Log Viewer\\SalesForce Log Viewer\\obj\\",
+        "projectPath": "C:\\Users\\reali\\source\\repos\\SFLogViewer\\SalesForce Log Viewer\\SalesForce Log Viewer.csproj",
+        "packagesPath": "C:\\Users\\reali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reali\\source\\repos\\SFLogViewer\\SalesForce Log Viewer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hunter.adcock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\reali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
